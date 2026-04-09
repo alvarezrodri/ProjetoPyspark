@@ -146,7 +146,7 @@ Além disso, o uso combinado de **PySpark + Looker Studio** evidencia um fluxo m
 
 ---
 
-## 📎 Como Executar
+## 📊 Dashboard
 
-```bash
-pip install pyspark
+Acesse o dashboard aqui:
+https://lookerstudio.google.com/s/oXlOoKeAbeI
