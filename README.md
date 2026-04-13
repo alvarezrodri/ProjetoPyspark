@@ -1,5 +1,10 @@
 # 📊 Análise de Despesas Públicas com PySpark
 
+## 📊 Dashboard 
+
+Acesse o dashboard aqui:
+https://lookerstudio.google.com/s/oXlOoKeAbeI
+
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo construir um pipeline completo de dados para análise de despesas públicas utilizando **PySpark**, cobrindo desde a ingestão até a visualização e aplicação de modelos de machine learning.
@@ -144,9 +149,3 @@ Além disso, o uso combinado de **PySpark + Looker Studio** evidencia um fluxo m
 - Integração com Data Warehouse
 - Publicação do dashboard online
 
----
-
-## 📊 Dashboard
-
-Acesse o dashboard aqui:
-https://lookerstudio.google.com/s/oXlOoKeAbeI
